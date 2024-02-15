@@ -1,0 +1,134 @@
+TID,Date,product1, product2,product3,product4,product5,product6
+1,1/2/2022,bottled water,dishes,coffee,margarine,bottled water,bottled water
+2,1/3/2022,yogurt,bottled water,coffee,dishes,bottled water,coffee
+3,1/4/2022,yogurt,bottled water,dishes, fruit,yogurt,coffee
+4,1/5/2022,bottled water,yogurt,bottled water,coffee,bottled water, fruit
+5,1/6/2022,bottled water,bottled water,dishes,coffee,yogurt,dishes
+6,1/7/2022,yogurt,yogurt,bottled water,coffee,yogurt,bottled water
+7,1/8/2022,bottled water,yogurt,bottled water,dishes,bottled water,dishes
+8,1/9/2022,yogurt,bottled water,coffee,citrus fruit,dishes,bottled water
+9,1/10/2022,yogurt,dishes,coffee,tropical fruit,bottled water,bottled water
+10,1/11/2022,bottled water,bottled water,coffee,whole milk,bottled water, fruit
+11,1/12/2022,dishes,bottled water,dishes,pip fruit,yogurt,coffee
+12,1/13/2022,bottled water,yogurt,bottled water,other vegetables,bottled water,margarine
+13,1/14/2022,bottled water,bottled water,dishes,whole milk,dishes,dishes
+14,1/15/2022,yogurt,yogurt,bottled water,rolls/buns,bottled water, fruit
+15,1/16/2022,bottled water,yogurt,bottled water,other vegetables,bottled water,coffee
+16,1/17/2022,yogurt,bottled water,coffee,potted plants,yogurt,coffee
+17,1/18/2022,bottled water,dishes,coffee,whole milk,dishes,coffee
+18,1/19/2022,yogurt,bottled water, fruit,tropical fruit,coffee,dishes
+19,1/20/2022,yogurt,,dishes,citrus fruit,margarine,bottled water
+20,1/21/2022,bottled water,yogurt,bottled water,beef,dishes,yogurt
+21,1/22/2022,yogurt,bottled water,dishes,frankfurter, fruit,coffee
+22,1/23/2022,dishes,yogurt,bottled water,chicken,dishes, fruit
+23,1/24/2022,bottled water,yogurt,,butter, fruit,coffee
+24,1/25/2022,bottled water,bottled water, fruit,fruit/vegetable juice,coffee,dishes
+25,1/26/2022,yogurt,dishes,coffee,packaged fruit/vegetables,citrus fruit,bottled water
+26,1/27/2022,bottled water,bottled water,coffee,chocolate,tropical fruit,dishes
+27,1/28/2022,yogurt,bottled water,dishes,specialty bar,whole milk,bottled water
+28,1/29/2022,yogurt, fruit,bottled water,other vegetables,pip fruit,bottled water
+29,1/30/2022,bottled water,bottled water,dishes,butter milk,other vegetables,coffee
+30,1/31/2022,dishes,yogurt,bottled water,whole milk,whole milk,coffee
+31,2/1/2022,frankfurter, fruit,bottled water,tropical fruit,rolls/buns, fruit
+32,2/2/2022,whole milk,bottled water,coffee,tropical fruit,other vegetables,dishes
+33,2/3/2022,frozen potato products,dishes,coffee,bottled water,potted plants,bottled water
+34,2/4/2022,,bottled water,,yogurt,whole milk,dishes
+35,2/5/2022,citrus fruit,bottled water,dishes,sausage,,bottled water
+36,2/6/2022,frankfurter,frankfurter, fruit,other vegetables,citrus fruit,bottled water
+37,2/7/2022,whole milk,whole milk,frankfurter,brown bread,beef, fruit
+38,2/8/2022,frozen potato products,frozen potato products,whole milk,yogurt,frankfurter,coffee
+39,2/9/2022,other vegetables,other vegetables,frozen potato products,hamburger meat,chicken,coffee
+40,2/10/2022,citrus fruit,citrus fruit,,root vegetables,,dishes
+41,2/11/2022,yogurt,bottled water,citrus fruit,pork,fruit/vegetable juice,bottled water
+42,2/12/2022,frankfurter,,,beef,packaged fruit/vegetables,dishes
+43,2/13/2022,whole milk,bottled water,dishes,pastry,chocolate,bottled water
+44,2/14/2022,frozen potato products,yogurt,bottled water,fruit/vegetable juice,specialty bar,bottled water
+45,2/15/2022,other vegetables, fruit,bottled water,canned beer,other vegetables,coffee
+46,2/16/2022,citrus fruit,bottled water,,root vegetables,butter milk,coffee
+47,2/17/2022,bottled water,dishes,coffee,citrus fruit,whole milk, fruit
+48,2/18/2022,yogurt,bottled water, fruit,sausage,tropical fruit,dishes
+49,2/19/2022,yogurt,bottled water,dishes,tropical fruit,tropical fruit, fruit
+50,2/20/2022,yogurt,bottled water, fruit,berries,bottled water,frankfurter
+51,2/21/2022,bottled water,dishes,coffee,canned beer,yogurt,whole milk
+52,2/22/2022,yogurt,,coffee,butter milk,sausage,frozen potato products
+53,2/23/2022,yogurt,bottled water,dishes,coffee,other vegetables,other vegetables
+54,2/24/2022,frankfurter, fruit,bottled water,pastry,brown bread,citrus fruit
+55,2/25/2022,whole milk,bottled water,dishes,rolls/buns,yogurt,bottled water
+56,2/26/2022,frozen potato products,yogurt,bottled water,misc. beverages,hamburger meat,dishes
+57,2/27/2022,other vegetables,,bottled water,,root vegetables,bottled water
+58,2/28/2022,citrus fruit,bottled water,coffee,sausage,pork,frankfurter
+59,3/1/2022,bottled water,dishes,coffee,canned beer,beef,whole milk
+60,3/2/2022,yogurt,bottled water, fruit,ham,pastry,frozen potato products
+61,3/3/2022,yogurt,bottled water,dishes,turkey,fruit/vegetable juice,other vegetables
+62,3/4/2022,yogurt,bottled water, fruit,whole milk,canned beer,citrus fruit
+63,3/5/2022,bottled water,dishes,coffee,whole milk,root vegetables,frankfurter
+64,3/6/2022,yogurt,bottled water,,packaged fruit/vegetables,citrus fruit,whole milk
+65,3/7/2022,yogurt,bottled water,dishes,rolls/buns,,frozen potato products
+66,3/8/2022,frankfurter, fruit,bottled water,ham,tropical fruit,other vegetables
+67,3/9/2022,whole milk,bottled water,dishes,rolls/buns,berries,citrus fruit
+68,3/10/2022,frozen potato products,yogurt,bottled water,other vegetables,canned beer,dishes
+69,3/11/2022,other vegetables, fruit,bottled water,sausage,butter milk, fruit
+70,3/12/2022,citrus fruit,bottled water,coffee,sausage,coffee,coffee
+71,3/13/2022,bottled water,dishes,coffee,frankfurter,pastry,coffee
+72,3/14/2022,yogurt,bottled water, fruit,rolls/buns,rolls/buns,dishes
+73,3/15/2022,yogurt,bottled water,dishes,whole milk,misc. beverages,bottled water
+74,3/16/2022,yogurt,bottled water, fruit,curd cheese,root vegetables,dishes
+75,3/17/2022,bottled water,dishes,coffee,red/blush wine,sausage,bottled water
+76,3/18/2022,yogurt,bottled water,coffee,sausage,canned beer,bottled water
+77,3/19/2022,yogurt,bottled water,dishes,tropical fruit,ham,coffee
+78,3/20/2022,frankfurter, fruit,bottled water,red/blush wine,turkey,coffee
+79,3/21/2022,whole milk,bottled water,dishes,whole milk,whole milk, fruit
+80,3/22/2022,frozen potato products,yogurt,bottled water,frankfurter,whole milk,dishes
+81,3/23/2022,other vegetables, fruit,bottled water,whole milk,packaged fruit/vegetables, fruit
+82,3/24/2022,citrus fruit,bottled water,coffee,frozen potato products,rolls/buns,coffee
+83,3/25/2022,bottled water,dishes,coffee,other vegetables,ham,coffee
+84,3/26/2022,yogurt,bottled water, fruit,citrus fruit,rolls/buns,dishes
+85,3/27/2022,yogurt,bottled water,dishes,flour,other vegetables,bottled water
+86,3/28/2022,yogurt,bottled water,coffee,sugar,sausage,dishes
+87,3/29/2022,bottled water,dishes,coffee,frozen meals,sausage,bottled water
+88,3/30/2022,yogurt,bottled water, fruit,chocolate,frankfurter,bottled water
+89,3/31/2022,yogurt,bottled water,dishes,root vegetables,rolls/buns,coffee
+90,4/1/2022,yogurt,bottled water, fruit,root vegetables,whole milk,coffee
+91,4/2/2022,bottled water,dishes,coffee,herbs,curd cheese, fruit
+92,4/3/2022,yogurt,bottled water,coffee,bottled water,red/blush wine,dishes
+93,4/4/2022,yogurt,bottled water,dishes, fruit,sausage,coffee
+94,4/5/2022,frankfurter, fruit,bottled water,coffee,tropical fruit,coffee
+95,4/6/2022,whole milk,bottled water,dishes,coffee,red/blush wine, fruit
+96,4/7/2022,frozen potato products,yogurt,bottled water,coffee,whole milk,dishes
+97,4/8/2022,other vegetables, fruit,bottled water,dishes,frankfurter, fruit
+98,4/9/2022,citrus fruit,bottled water,coffee,frankfurter,whole milk,coffee
+99,4/10/2022,bottled water,dishes,coffee,whole milk,frozen potato products,coffee
+100,4/11/2022,yogurt,bottled water, fruit,frozen potato products,other vegetables,dishes
+101,4/12/2022,yogurt,bottled water,dishes,other vegetables,citrus fruit,bottled water
+102,4/13/2022,frankfurter,yogurt,bottled water,citrus fruit,flour,frankfurter
+103,4/14/2022,whole milk,bottled water,dishes,coffee,sugar,whole milk
+104,4/15/2022,frozen potato products,yogurt,bottled water, fruit,frozen meals,frozen potato products
+105,4/16/2022,other vegetables,yogurt,bottled water,dishes,chocolate,other vegetables
+106,4/17/2022,citrus fruit,yogurt,bottled water, fruit,root vegetables,citrus fruit
+107,4/18/2022,frankfurter,bottled water,dishes,coffee,root vegetables,frankfurter
+108,4/19/2022,whole milk,yogurt,bottled water,coffee,herbs,whole milk
+109,4/20/2022,frozen potato products,yogurt,bottled water,dishes,bottled water,frozen potato products
+110,4/21/2022,other vegetables,frankfurter, fruit,bottled water,coffee,other vegetables
+111,4/22/2022,citrus fruit,whole milk,bottled water,dishes,coffee,citrus fruit
+112,4/23/2022,coffee,frozen potato products,yogurt,bottled water,coffee,dishes
+113,4/24/2022, fruit,other vegetables, fruit,bottled water,dishes, fruit
+114,4/25/2022,dishes,citrus fruit,bottled water,coffee,frankfurter,frankfurter
+115,4/26/2022, fruit,bottled water,dishes,coffee,whole milk,whole milk
+116,4/27/2022,coffee,yogurt,bottled water, fruit,frozen potato products,frozen potato products
+117,4/28/2022,coffee,yogurt,bottled water,dishes,other vegetables,other vegetables
+118,4/29/2022,dishes,yogurt,bottled water,coffee,citrus fruit,citrus fruit
+119,4/30/2022,bottled water,bottled water,dishes,coffee,margarine,frankfurter
+120,5/1/2022,dishes,yogurt,bottled water, fruit,dishes,whole milk
+121,5/2/2022,bottled water,yogurt,bottled water,dishes, fruit,frozen potato products
+122,5/3/2022,bottled water,yogurt,bottled water, fruit,frankfurter,other vegetables
+123,5/4/2022,coffee,bottled water,dishes,coffee,whole milk,citrus fruit
+124,5/5/2022,coffee,yogurt,bottled water,coffee,frozen potato products,flour
+125,5/6/2022, fruit,yogurt,bottled water,dishes,other vegetables,sugar
+126,5/7/2022,dishes,frankfurter, fruit,bottled water,citrus fruit,frozen meals
+127,5/8/2022, fruit,whole milk,bottled water,dishes,coffee,chocolate
+128,5/9/2022,coffee,frozen potato products,yogurt,bottled water,coffee,root vegetables
+129,5/10/2022,coffee,other vegetables, fruit,bottled water,dishes,root vegetables
+130,5/11/2022,dishes,citrus fruit,bottled water,coffee,,herbs
+131,5/12/2022,bottled water,flour,dishes,coffee,margarine,bottled water
+132,5/13/2022,dishes,sugar,bottled water, fruit,dishes,sausage
+133,,bottled water,frozen meals,bottled water,dishes, fruit,coffee
